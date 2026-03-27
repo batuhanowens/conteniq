@@ -1,0 +1,8 @@
+name = "conteniq-api"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+# Opsiyonel: API key'leri environment variable olarak ekle
+# ANTHROPIC_API_KEY = "sk-ant-..."
+# OPENAI_API_KEY = "sk-..."

@@ -1,0 +1,12 @@
+{
+  "name": "conteniq",
+  "version": "2.0.0",
+  "description": "ConteniQ Pro - AI Video İçerik Motoru",
+  "scripts": {
+    "dev": "wrangler dev worker.js",
+    "deploy": "wrangler deploy worker.js"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
